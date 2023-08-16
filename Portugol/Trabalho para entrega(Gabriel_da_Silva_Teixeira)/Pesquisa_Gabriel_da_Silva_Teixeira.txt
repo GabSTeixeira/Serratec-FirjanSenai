@@ -1,0 +1,26 @@
+A) Pesquise e responda:
+
+1) O que é algoritmo?
+	uma sequencia de passos finitos, feita para resolver um problema
+2) O que é um programa de computador?
+	um algoritmo rodando em linguagem de maquina
+3) O que é uma variável?
+	um endereço na memoria onde-se guarda um unico valor de um unico tipo
+4) O que é o Portugol Studio?
+	uma ide em português focada para ensino
+5) O que faz o comando escreva do Portugol?
+	escreve no console
+6) O que faz o comando leia do Portugol?
+	permite a o usuario, escrever algo para ser lido pelo programa
+7) Defina o que é tipo de variável
+	uma abstração para linguagens, representam um numero ou caracter ou uma cadeia de caracteres, ou uma condição booleana
+8) Explique o que são os tipos de variáveis do Portugol:
+   a. cadeia: String, uma cadeia de caracteres juntos, formando um texto
+   b. inteiro: int, numeros inteiros
+   c. real: float, numeros com ponto flutuante, decimais
+   d. logico: bool, falso ou verdadeiro
+   e. caracter: char, um unico caracter solo
+9) Dê exemplo:
+   a. de entrada de um algoritmo: leia()
+   b. de processamento de um algoritmo: se(), +, variaveis
+   c. de saída de um algoritmo: escreva()
